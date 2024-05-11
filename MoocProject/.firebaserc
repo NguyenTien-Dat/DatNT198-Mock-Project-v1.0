@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "datnt198-hn22-cpl-fe-02": {
+      "hosting": {
+        "MoocProject": [
+          "datnt198-hn22-cpl-fe-02"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "datnt198-hn22-cpl-fe-02"
+  }
+}
